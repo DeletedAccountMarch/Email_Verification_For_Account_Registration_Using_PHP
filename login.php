@@ -33,7 +33,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
                     include 'sendmail.php';
                     $mail_stat = send_mail($email,$row['v_token']);
                     if($mail_stat){
-                        $showError = "Your email is not confirmed, please confirm your email. We have send you email to your email address";
+                        $showError = "Please confirm your email. We have send you email to your email address";
                     }
                     else{
                         $showError = "Some error occur while sending verification email";
