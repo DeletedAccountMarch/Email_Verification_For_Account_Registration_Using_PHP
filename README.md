@@ -1,18 +1,13 @@
-# User-Authentication-Login-Register-Feature-Using-PHP-And-Mysql
-User authentication features like login and register using php. You can use this source code for your project.
+# Email verification for account registration 
 
-Features =
+You can use this code for your project.
 
-1) User account authentication with alerts like "Password doesn't match or username alredy exists on database" seperate message for seperate alert is created.
-2) User account registration on database and account login with database server side validation
-3) Beautiful UI
-4) Logout feature and authorizations
-5) Simple user dashboard that you can modify according to your needs
+# How it looks?
 
+![image](https://user-images.githubusercontent.com/82378187/163996757-91151810-164e-489a-989c-9114f84a7db8.png)
 
-# How it looks
-![image](https://user-images.githubusercontent.com/82378187/163721803-5dc40fea-5794-4cc1-80e2-dd94f75ec594.png)
+![image](https://user-images.githubusercontent.com/82378187/163997330-f7f8d823-1cd4-4f3d-8e94-3644822c5d56.png)
 
-![image](https://user-images.githubusercontent.com/82378187/163721821-41826640-9b1a-4bad-93a8-991153664ceb.png)
+![image](https://user-images.githubusercontent.com/82378187/163997489-731fbdd0-0508-45a5-81f2-878498c7e8b9.png)
 
-![image](https://user-images.githubusercontent.com/82378187/163721840-53eeb674-49b3-4df5-adf1-0e0fdd04dc26.png)
+![image](https://user-images.githubusercontent.com/82378187/163997539-66778f49-704f-4ad1-8b74-91de1c21baa5.png)
