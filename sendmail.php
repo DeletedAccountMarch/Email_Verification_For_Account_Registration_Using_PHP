@@ -19,7 +19,7 @@ $headers = "From: $fromName"." <".$from.">". "\r\n". "Content-type:text/html;cha
 
 $mail = @mail($to, $subject, $htmlContent, $headers);
 
-echo $mail?"<h1>Email Sent Successfully!</h1>":"<h1>Email sending failed.</h1>"; 
+return $mail?true:false; 
 
 }
 ?>
